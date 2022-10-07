@@ -4,8 +4,14 @@ This file contains inputs and outputs of the Vaganov-Shashkin model presented in
 
 # Model inputs
 > Chronology
+Site chronologies
+
 > Climate
-> Parameters
+Daily mean temperatures and precipitation totals
+
+> VSParameters
+Calibrated model parameters using VS-Oscilloscope
 
 # Model outputs
 > QUIL + QUFA_QUPU
+Daily and annual outcomed of the model simulations
